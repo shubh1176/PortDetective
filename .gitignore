@@ -1,0 +1,21 @@
+# Binaries
+portmap
+portmap.exe
+
+# Node.js
+node_modules/
+.next/
+dashboard/out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Go
+*.out
+*.test
+vendor/
+go.sum
