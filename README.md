@@ -18,19 +18,19 @@ Port Detective now ships as a **Single Binary**. The entire web dashboard is emb
 
 **One-Liner Install (macOS/Linux):**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/portdetective/portdetective/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/shubh1176/PortDetective/main/install.sh | bash
 ```
 
 ### From Source
 ```bash
-git clone https://github.com/portdetective/portdetective.git
+git clone https://github.com/shubh1176/PortDetective.git
 cd portdetective
 make install
 ```
 
 ### Go Install
 ```bash
-go install github.com/portdetective/portdetective@latest
+go install github.com/shubh1176/PortDetective@latest
 ```
 
 ## Usage
